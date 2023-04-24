@@ -38,6 +38,8 @@ body {
 	font-size: 16px;
 	line-height: 24px;
 	background: var(--main-bg-color);
+    /* For test*/
+    background: red;
 }
 .wrapper {
 	max-width: 1366px;
